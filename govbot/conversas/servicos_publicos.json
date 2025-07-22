@@ -1,0 +1,16 @@
+{
+  "conversas": [
+    {
+      "mensagens": ["como tirar RG?", "onde faço meu RG?", "quero fazer minha identidade"],
+      "resposta": "Você pode emitir sua carteira de identidade em um posto de identificação do governo estadual, como o SAC ou Poupatempo, dependendo do seu estado."
+    },
+    {
+      "mensagens": ["segunda via cpf", "como recuperar o CPF?", "emitir segunda via do CPF"],
+      "resposta": "Você pode solicitar a segunda via do CPF no site da Receita Federal ou em agências dos Correios, Banco do Brasil e Caixa Econômica Federal."
+    },
+    {
+      "mensagens": ["alistamento militar documentos", "como me alisto no exército?", "onde me alisto?"],
+      "resposta": "Para o alistamento militar, você precisa de RG, CPF, comprovante de residência e certidão de nascimento. O processo pode ser feito online ou na Junta de Serviço Militar da sua cidade."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "conversas": [
+    {
+      "mensagens": ["oi", "olá", "fala govbot"],
+      "resposta": "Olá, sou o Govbot, assistente virtual de serviços públicos. Posso ajudar você com informações sobre documentos, benefícios e acesso ao Portal Gov.br."
+    },
+    {
+      "mensagens": ["bom dia", "bom dia govbot", "govbot, bom dia"],
+      "resposta": "Bom dia! Sou o Govbot, pronto para te ajudar com serviços do governo. Em que posso ajudar hoje?"
+    },
+    {
+      "mensagens": ["boa tarde", "boa tarde, pode me ajudar?", "gov, boa tarde"],
+      "resposta": "Boa tarde! Sou o Govbot. Precisa de ajuda com serviços como CPF, identidade, seguro-desemprego ou outros?"
+    },
+    {
+      "mensagens": ["boa noite", "govbot, boa noite", "boa noite, me ajuda?"],
+      "resposta": "Boa noite! Sou o Govbot, seu assistente virtual. Posso te ajudar com informações sobre documentos e serviços públicos."
+    }
+  ]
+}

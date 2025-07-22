@@ -1,0 +1,24 @@
+{
+  "conversas": [
+    {
+      "mensagens": ["como acessar o portal gov.br?", "govbr como entro", "gov.br login", "me ajuda a entrar no gov.br"],
+      "resposta": "Você pode acessar o Portal Gov.br pelo site https://www.gov.br utilizando seu CPF e senha cadastrados."
+    },
+    {
+      "mensagens": ["o que posso fazer no gov.br?", "quais serviços estão no gov.br?", "gov.br tem o que?", "quais benefícios tem no gov.br?"],
+      "resposta": "No Portal Gov.br você encontra serviços como emissão de documentos, seguro-desemprego, INSS, carteira de trabalho digital, alistamento militar, entre outros."
+    },
+    {
+      "mensagens": ["os serviços do gov.br são pagos?", "gov.br cobra alguma coisa?", "gov.br é gratuito?", "gov.br tem taxas?"],
+      "resposta": "A maioria dos serviços disponíveis no Gov.br são gratuitos. Alguns serviços presenciais podem ter taxas, dependendo do órgão."
+    },
+    {
+      "mensagens": ["preciso de ajuda com o gov.br", "esqueci a senha do gov.br", "gov.br deu problema", "gov.br recuperar conta"],
+      "resposta": "Você pode obter ajuda pelo próprio Portal Gov.br ou em postos de atendimento do governo, como o SAC ou Poupatempo do seu estado."
+    },
+    {
+      "mensagens": ["como solicitar seguro desemprego no gov.br?", "entrar com pedido de seguro-desemprego", "como faço pra pegar seguro?", "gov.br tem link do seguro?"],
+      "resposta": "Você pode solicitar o seguro-desemprego através do Portal Gov.br, acessando a aba 'Trabalho' e preenchendo os dados do requerimento."
+    }
+  ]
+}
