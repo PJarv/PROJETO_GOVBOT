@@ -5,7 +5,7 @@ Chatbot feito em Python com Flask e ChatterBot. Responde perguntas sobre serviç
 Instalação:
 
 1. Clone o repositório:
-    git clone https://github.com/Pjarv/govbot.git
+    git clone https://github.com/PJarv/PROJETO_GOVBOT/tree/main
     cd govbot
 
 2. Crie e ative o ambiente virtual:
